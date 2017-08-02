@@ -1,0 +1,2 @@
+uname -r
+echo "lsb_release -a"
